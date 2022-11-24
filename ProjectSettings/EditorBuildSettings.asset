@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2e79b9e7bec9c8949a437594253007d9
+  - enabled: 1
+    path: Assets/Scenes/Jogo.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/Scenes/Instru\xE7\xF5es.unity"
+    guid: c7f2621a9dd322348a4b2eff046308a6
+  - enabled: 1
+    path: Assets/Scenes/Ganhou.unity
+    guid: 9e387f2c61a4943409d18bd57ea831d7
+  m_configObjects: {}
